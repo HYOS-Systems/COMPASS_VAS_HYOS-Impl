@@ -5,7 +5,7 @@
  *      Author: Bayram
  */
 
-#include "systems/compass/vas/vas_board.h"
+#include "vas_board.h"
 
 #define VAS_BOARD_nMeasurements 8
 VAS_PeripheralStruct *vas_struct;

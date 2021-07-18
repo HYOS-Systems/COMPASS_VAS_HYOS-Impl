@@ -5,7 +5,7 @@
  *      Author: Bayram
  */
 
-#include "systems/compass/vas/vas_types.h"
+#include "vas_types.h"
 
 void VAS_BOARD_init(VAS_PeripheralStruct *vas_PeripheralStruct);
 void VAS_BOARD_tick(void);

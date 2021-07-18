@@ -5,7 +5,7 @@
  *      Author: Bayram
  */
 
-#include "systems/compass/vas/vas.h"
+#include "vas.h"
 
 VAS_PeripheralStruct *vas_struct;
 
